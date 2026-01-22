@@ -51,7 +51,8 @@ Maintaining professional GitHub documentation
 🌙 Dark mode support
 
 Live Demo:
-view of website:
+view of website: https://tejupatil015.github.io/Restaurant-Landing-Page/
+
 🧠 Accessibility improvements
 🌐 Backend/API integration
 👨‍💻 Author
