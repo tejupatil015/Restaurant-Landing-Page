@@ -83,3 +83,34 @@ body{
     height: 500px;
     background-size: cover;
 }
+.items{
+    display: flex;
+    padding-left: 150px;
+    margin-top: -50px;
+    gap: 20px;
+}
+#food1,
+#food2, 
+#food3, 
+#food4{
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+}
+#food1{
+    background: url(images/food1.png);
+    background-size: cover;
+}
+#food2{
+    background: url(images/food2.png);
+    background-size: cover;
+}
+#food3{
+    background: url(images/food3.png);
+    background-size: cover;
+}
+#food4{
+    background: url(images/food4.png);
+    background-size: cover;
+}
