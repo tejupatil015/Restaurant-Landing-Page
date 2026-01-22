@@ -18,6 +18,11 @@ body{
     list-style: none;
     gap:40px
 }
+.nav-1{
+    display: flex;
+    align-items: center;
+    gap: 120px;
+}
 .logo{
     color: orange;
     font-size: 30px;
@@ -26,4 +31,13 @@ body{
 .links li{
     font-size: 19px;
     color: orange;
+}
+.icons{
+    display: flex;
+    gap: 35px
+}
+.icons i{
+    font-size: 20px;
+    color: black;
+    cursor: pointer;
 }
