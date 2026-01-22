@@ -49,6 +49,9 @@ Maintaining professional GitHub documentation
 🔍 Filter by cuisine or category
 📄 Restaurant detail page
 🌙 Dark mode support
+
+Live Demo:
+view of website:
 🧠 Accessibility improvements
 🌐 Backend/API integration
 👨‍💻 Author
