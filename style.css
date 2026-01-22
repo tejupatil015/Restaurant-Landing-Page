@@ -41,3 +41,45 @@ body{
     color: black;
     cursor: pointer;
 }
+.hero{
+    display: flex;
+    margin-top: 80px;
+    align-items: center;
+    gap: 100px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    padding-left: 240px;
+    align-items: start;
+}
+.left1{
+    font-size: 30px;
+    font-style: italic;
+}
+.left2{
+    font-size: 80px;
+    font-weight: 600;
+}
+.left3{
+    font-size: 25px;
+    font-style: italic;
+    color: orange;
+    margin-bottom: 15px;
+}
+.left4{
+
+    border: 2px solid white;
+    padding: 5px 15px;
+    border-radius: 30px;
+}
+.food{
+    border: 2px solid white;
+    border-radius: 50%;
+}
+#food{
+    background: url(images/food.png);
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+}
