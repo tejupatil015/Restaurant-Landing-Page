@@ -50,12 +50,13 @@ Maintaining professional GitHub documentation
 📄 Restaurant detail page
 🌙 Dark mode support
 
-Live Demo:
-view of website: https://tejupatil015.github.io/Restaurant-Landing-Page/
 
 🧠 Accessibility improvements
-🌐 Backend/API integration
+
 👨‍💻 Author
-Teju Patil
+Tejashri  Patil
 Electronics & Telecommunication Engineering Student
 Frontend Web Developer
+
+Live Demo:
+view of website: https://tejupatil015.github.io/Restaurant-Landing-Page/
