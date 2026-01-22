@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:url(images/Background2.png) ;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px 0px 50px;
+    height: 70px;
+    align-items: center;
+
+}
+.links{
+    display: flex;
+    list-style: none;
+    gap:40px
+}
+.logo{
+    color: orange;
+    font-size: 30px;
+    font-weight: 600;
+}
+.links li{
+    font-size: 19px;
+    color: orange;
+}
